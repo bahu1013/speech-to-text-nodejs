@@ -1,0 +1,6 @@
+---
+applications:
+- name: my-stt-demo
+  path: .
+  command: npm start
+  memory: 256M
